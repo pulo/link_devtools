@@ -12,6 +12,7 @@
     "js-link": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^2.10.2"
+    "eslint": "^2.10.2",
+    "vue": "^1.0.24"
   }
 }

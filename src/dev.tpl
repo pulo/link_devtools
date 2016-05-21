@@ -1,3 +1,3 @@
-<a>
-  fafa
-</a>
+<div id="app">
+  {{ message }}
+</div>
